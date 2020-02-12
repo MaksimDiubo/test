@@ -1,2 +1,3 @@
 feature
-text from branch
+text from branch a
+text from branch B
